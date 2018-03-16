@@ -1,0 +1,71 @@
+body{
+	background:#000000;
+}
+
+div#tudo{
+	background:#FFFFFF;
+	width:946px;
+	height:900px;
+	margin:0 auto;
+}
+
+div#topo{
+	
+	width: 945px;
+	height: 165px;
+	margin: 0 auto;
+}
+
+div#logo{
+	
+	width: 176px;
+	height: 107px;
+	margin: 0 auto;
+	float: left;
+}
+
+div#login{
+	
+	width: 180px;
+	height: 65px;
+	margin-top: : 50px;
+	float: right;
+
+}
+
+div#login p{
+	font-family: Arial Black;
+	font-size: 12px;
+
+}
+
+div#menu{
+	background: #373737;
+	width: 945px;
+	height: 65px;
+	margin: 0 auto;
+}
+
+div#menu a{
+	color: #fff;
+	font-family: Verdana;
+	font-size: 12px;
+	text-decoration: none;
+	margin-top: 25px;
+	margin-left: 50px; 
+	display: block;
+	float: left;
+}
+
+div#menu a:hover{
+	color:#00c6c6;
+}
+
+
+div#logon{
+	width: 945px;
+	height: 165px;
+	margin-left:200px;
+	margin-top:50px;
+}
+
